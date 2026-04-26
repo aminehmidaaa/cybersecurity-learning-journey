@@ -39,7 +39,6 @@ Over the next six months, I will be documenting the following core projects in t
 - [ ] **Month 3:** 50+ TryHackMe Rooms Completed.
 - [ ] **Month 4:** CompTIA Security+ Certified.
 - [ ] **Month 5:** Personal Portfolio Site Live.
-- [ ] **Month 6:** Transition to Full-Time Security Role.
 
 ---
 
