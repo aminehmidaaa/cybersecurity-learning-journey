@@ -19,7 +19,7 @@ This repository serves as my technical portfolio and progress tracker. I am foll
 | **03** | **Visibility** | LinkedIn Networking, Security+ Study, TryHackMe (50+ rooms). |
 | **04** | **Certs & Labs** | Security+ Exam, BTL1 Enrollment, Advanced SOC Labs. |
 | **05** | **Portfolio** | Launching E-Portfolio site, Finalizing Resume & Projects. |
-| **06** | **Career Hunt** | Targeted Applications & Interviewing. |
+
 
 ---
 
