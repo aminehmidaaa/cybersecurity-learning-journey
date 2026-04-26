@@ -52,5 +52,5 @@ Over the next six months, I will be documenting the following core projects in t
 ---
 
 ## 📩 Connect with Me
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
+* **LinkedIn:** linkedin.com/in/amine-hmida-4a883028b
 * **Portfolio:** [Coming Soon in Month 5]
